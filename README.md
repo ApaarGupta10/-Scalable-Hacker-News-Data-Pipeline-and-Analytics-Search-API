@@ -61,7 +61,7 @@ Instead, this repo provides:
 - PostgreSQL
 - SQLAlchemy
 - Pydantic
-- Pandas / Polars
+- Pandas
 - Docker
 - Pytest
 
